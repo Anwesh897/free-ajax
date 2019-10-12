@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Meowsalot",
+        "species": "cat",
+        "favFood": "tuna"
+    },
+    {
+        "name": "Barky",
+        "species": "dog",
+        "favFood": "carrots"
+    },
+    {
+        "name": "Beefy",
+        "species": "bull",
+        "favFood": "grass"
+    },
+    {
+        "name": "Clever",
+        "species": "wolf",
+        "favFood": "fish"
+    }
+]
